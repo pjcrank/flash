@@ -1,0 +1,7 @@
+# Introduction
+
+We are studying ants.
+
+# Methods
+
+We caught *Formica* in traps.
